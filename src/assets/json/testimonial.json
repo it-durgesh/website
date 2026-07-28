@@ -1,0 +1,44 @@
+{
+  "testimonials": [
+    {
+      "name": "Anshika Tiwari",
+      "role": "SSC Student",
+      "text": "The staff of SS Tutorial's taught me not to study for earning but for learning. They inspired me with a desire to learn and helped me grow."
+    },
+    {
+      "name": "Rebeca Baptista",
+      "role": "SSC, HSC (Com.) Student",
+      "text": "The teachers are friendly and helpful. A wonderful experience — SS TUTORIAL IS ONE OF THE BEST COACHING CLASSES IN BANDRA."
+    },
+    {
+      "name": "Melvin D'souza",
+      "role": "SSC, HSC (Com.) Student",
+      "text": "One of the best places you can find peace of mind and a playful heart to study. Teachers are like friends walking with you towards success."
+    },
+    {
+      "name": "Sybil Fernandes",
+      "role": "SSC, HSC (Sci.) Student",
+      "text": "Home away from home. Learning here felt like child's play — S.S. Tutorial's changed the way I looked at life for the better."
+    },
+    {
+      "name": "Raj Dubey",
+      "role": "SSC Student",
+      "text": "This tutorial has a great education system and the professors are very friendly. 😁🙏"
+    },
+    {
+      "name": "Rachel Baptista",
+      "role": "HSC (Com.) Student",
+      "text": "A very old and well-reputed coaching class in Bandra. Highly recommended."
+    },
+    {
+      "name": "Aatish Desale",
+      "role": "SSC, HSC (Sci.) Student",
+      "text": "Excellent teaching process — I never faced difficulties in my studies for three whole years."
+    },
+    {
+      "name": "Neha Solanki",
+      "role": "SSC, HSC (Sci.) Student",
+      "text": "Concepts are simplified and well explained with relevant examples. A great coaching class."
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "toppers": [
+    {
+      "name": "Gargi S Chaurasiya",
+      "score": "SSC 84.40%",
+      "year": "2024-25",
+      "image": "/src/assets/students/gargi-chaurasiya.jpg"
+    },
+    {
+      "name": "Dilesha N Raut",
+      "score": "SSC 84.20%",
+      "year": "2024-25",
+      "image": "/src/assets/students/dilesha-raut.jpg"
+    },
+    {
+      "name": "Larissa Dsouza",
+      "score": "SSC 80%",
+      "year": "2024-25",
+      "image": "/src/assets/students/larissa-dsouza.jpg"
+    },
+    {
+      "name": "Srushti Surve",
+      "score": "SSC 91.60%",
+      "year": "2023-24",
+      "image": "/src/assets/students/srushti-surve.jpg"
+    },
+    {
+      "name": "Jeanne Mendonca",
+      "score": "SSC 88.60%",
+      "year": "2023-24",
+      "image": "/src/assets/students/jeanne-mendonca.jpg"
+    },
+    {
+      "name": "Mysa Khan",
+      "score": "SSC 85.60%",
+      "year": "2023-24",
+      "image": "/src/assets/students/mysa-khan.jpg"
+    },
+    {
+      "name": "Yogi Rathod",
+      "score": "SSC 81.80%",
+      "year": "2023-24",
+      "image": "/src/assets/students/yogi-rathod.jpg"
+    },
+    {
+      "name": "Olivia Barnes",
+      "score": "HSC (Com.) 91.4%",
+      "year": "2020-21",
+      "image": "/src/assets/students/olivia-barnes.jpg"
+    },
+    {
+      "name": "Shermin Chauvan",
+      "score": "HSC (Sci.) 98.2%",
+      "year": "2020-21",
+      "image": "/src/assets/students/shermin-chauvan.jpeg"
+    },
+    {
+      "name": "Tushar Singh",
+      "score": "HSC (Sci.) 94.5",
+      "year": "2020-21",
+      "image": "/src/assets/students/tushar-singh.jpeg"
+    },
+    {
+      "name": "Chrisjol D'souza",
+      "score": "HSC (Com.) 93.6%",
+      "year": "2020-21",
+      "image": "/src/assets/students/chrisjol-dsouza.jpeg"
+    },
+    {
+      "name": "Shikha Pandey",
+      "score": "SSC 88.40%",
+      "year": "2020-21",
+      "image": "/src/assets/students/shikha-pandey.png"
+    },
+    {
+      "name": "Kevin Khandagale",
+      "score": "SSC 82.60%",
+      "year": "2022-23",
+      "image": "/src/assets/students/kevin-khandagale.png"
+    },
+    {
+      "name": "Ayush Tiwari",
+      "score": "SSC 90.40%",
+      "year": "2021-22",
+      "image": "/src/assets/students/ayush-tiwari.jpeg"
+    },
+    {
+      "name": "Gracy Khandagle",
+      "score": "SSC 85.80%",
+      "year": "2021-22",
+      "image": "/src/assets/students/gracy-khandagle.png"
+    },
+    {
+      "name": "Vishal Yadav",
+      "score": "SSC 84.80%",
+      "year": "2021-22",
+      "image": "/src/assets/students/vishal-yadav.png"
+    },
+    {
+      "name": "Valentine Sequeira",
+      "score": "SSC 80.80%",
+      "year": "2021-22",
+      "image": "/src/assets/students/valentine-sequeira.png"
+    },
+    {
+      "name": "Melvin D'souza",
+      "score": "HSC (Com.) 93%",
+      "year": "2020-21",
+      "image": "/src/assets/students/melvin-dsouza.jpeg"
+    },
+    {
+      "name": "Siddharth Singh",
+      "score": "HSC (SCI) 91.5%",
+      "year": "2020-21",
+      "image": "/src/assets/students/siddharth-singh.jpeg"
+    },
+    {
+      "name": "Johnaven Gomes",
+      "score": "SSC 88.6%",
+      "year": "2020-21",
+      "image": "/src/assets/students/johnaven-gomes.jpeg"
+    },
+    {
+      "name": "Anshika Tiwari",
+      "score": "SSC 92%",
+      "year": "2019-20",
+      "image": "/src/assets/students/anshika-tiwari.jpeg"
+    },
+    {
+      "name": "Aatish Desale",
+      "score": "SSC 84.20%",
+      "year": "2016-17",
+      "image": "/src/assets/students/aatish-desale.jpeg"
+    },
+    {
+      "name": "Dallas Carsto",
+      "score": "SSC 84.20%",
+      "year": "2016-17",
+      "image": "/src/assets/students/dallas-carsto.jpeg"
+    },
+    {
+      "name": "Siddhika Singh",
+      "score": "SSC 86.4%",
+      "year": "2020-21",
+      "image": "/src/assets/students/siddhika-singh.jpeg"
+    },
+    {
+      "name": "Sybil Fernandes",
+      "score": "SSC 86.8%",
+      "year": "2019-20",
+      "image": "/src/assets/students/sybil-fernandes.jpeg"
+    },
+    {
+      "name": "Kunal Yadav",
+      "score": "SSC 82%",
+      "year": "2015-16",
+      "image": "/src/assets/students/kunal-yadav.jpeg"
+    },
+    {
+      "name": "Srishti Tiwari",
+      "score": "SSC 81.6%",
+      "year": "2019-20",
+      "image": "/src/assets/students/srishti-tiwari.jpeg"
+    },
+    {
+      "name": "Raj Dubey",
+      "score": "SSC 79.8%",
+      "year": "2019-20",
+      "image": "/src/assets/students/raj-dubey.jpeg"
+    },
+    {
+      "name": "Neha Solanki",
+      "score": "SSC 80.73%",
+      "year": "2012-13",
+      "image": "/src/assets/students/neha-solanki.jpeg"
+    },
+    {
+      "name": "Shubham Dhuri",
+      "score": "SSC 82.36%",
+      "year": "2012-13",
+      "image": "/src/assets/students/shubham-dhuri.jpeg"
+    },
+    {
+      "name": "Pradnya Valanju",
+      "score": "SSC 90.91%",
+      "year": "2012-13",
+      "image": "/src/assets/students/pradnya-valanju.jpeg"
+    },
+    {
+      "name": "Candrea Miranda",
+      "score": "HSC (Com.) 80%",
+      "year": "2019-20",
+      "image": "/src/assets/students/candrea-miranda.jpeg"
+    },
+    {
+      "name": "Saad Naik",
+      "score": "SSC 89.64%",
+      "year": "2012-13",
+      "image": "/src/assets/students/saad-naik-1.jpeg"
+    },
+    {
+      "name": "Afra Shaikh",
+      "score": "SSC 89.45%",
+      "year": "2012-13",
+      "image": "/src/assets/students/afra-shaikh.jpeg"
+    },
+    {
+      "name": "Roveena Dhonde",
+      "score": "SSC 83.2%",
+      "year": "2012-13",
+      "image": "/src/assets/students/roveena-dhonde.jpeg"
+    },
+    {
+      "name": "Sarita Tiwari",
+      "score": "SSC 87.60%",
+      "year": "2013-14",
+      "image": "/src/assets/students/sarita-tiwari.jpeg"
+    },
+    {
+      "name": "Valentina Dटsouza",
+      "score": "SSC 80%",
+      "year": "2014-15",
+      "image": "/src/assets/students/valentina-dsouza.jpeg"
+    },
+    {
+      "name": "Janice D'souza",
+      "score": "SSC 83.20%",
+      "year": "2014-15",
+      "image": "/src/assets/students/janice-dsouza.jpeg"
+    },
+    {
+      "name": "Jonah Dais",
+      "score": "SSC 80.60%",
+      "year": "2015-16",
+      "image": "/src/assets/students/jonah-dais.jpeg"
+    },
+    {
+      "name": "Rahul Chintal",
+      "score": "SSC 86%",
+      "year": "2015-16",
+      "image": "/src/assets/students/rahul-chintal.jpeg"
+    },
+    {
+      "name": "Bhavesh Patel",
+      "score": "SSC 75.80%",
+      "year": "2013-14",
+      "image": "/src/assets/students/bhavesh-patel.jpeg"
+    },
+    {
+      "name": "Pooja Chintal",
+      "score": "SSC 83%",
+      "year": "2013-14",
+      "image": "/src/assets/students/pooja-chintal.jpeg"
+    },
+    {
+      "name": "Rachel Dhonde",
+      "score": "SSC 92.91%",
+      "year": "2011-12",
+      "image": "/src/assets/students/rachel-dhonde-1.jpeg"
+    },
+    {
+      "name": "Pooja Chindane",
+      "score": "SSC 87.82%",
+      "year": "2011-12",
+      "image": "/src/assets/students/pooja-chindane.jpeg"
+    },
+    {
+      "name": "Varsha Yadav",
+      "score": "SSC 81.6%",
+      "year": "2011-12",
+      "image": "/src/assets/students/varsha-yadav.jpeg"
+    },
+    {
+      "name": "Rachel Baptista",
+      "score": "SSC 78.6%",
+      "year": "2014-15",
+      "image": "/src/assets/students/rachel-baptista.jpeg"
+    },
+    {
+      "name": "Haider Ali",
+      "score": "SSC 77.8%",
+      "year": "2016-17",
+      "image": "/src/assets/students/haider-ali.jpeg"
+    },
+    {
+      "name": "Aditya Verma",
+      "score": "SSC 79.8%",
+      "year": "2017-18",
+      "image": "/src/assets/students/aditya-verma.jpeg"
+    },
+    {
+      "name": "Saloni Pawate",
+      "score": "SSC 75%",
+      "year": "2018-19",
+      "image": "/src/assets/students/saloni-pawate.jpeg"
+    },
+    {
+      "name": "Tuheen Macwan",
+      "score": null,
+      "year": null,
+      "image": "/src/assets/students/tuheen-macwan.jpeg"
+    },
+    {
+      "name": "Nikhil Shelar",
+      "score": null,
+      "year": null,
+      "image": "/src/assets/students/nikhil-shelar.jpeg"
+    },
+    {
+      "name": "Kunal Solanki",
+      "score": null,
+      "year": null,
+      "image": "/src/assets/students/kunal-solanki.jpeg"
+    }
+  ]
+}

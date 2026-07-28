@@ -1,0 +1,29 @@
+{
+  "services": [
+    {
+      "icon": "GraduationCap",
+      "title": "Specialised Faculties",
+      "desc": "Tutorials for SSC, HSC (Sci, Com & Arts), Class 8 & 9 with subject specialists."
+    },
+    {
+      "icon": "ClipboardCheck",
+      "title": "Progressive Tests",
+      "desc": "Regular chapter-wise MCQ and subjective tests — both physical and digital."
+    },
+    {
+      "icon": "Users",
+      "title": "Small Batch System",
+      "desc": "Focused batches of 5–10 and 10–25 students for personalised attention."
+    },
+    {
+      "icon": "MessageSquareHeart",
+      "title": "Doubt Solving",
+      "desc": "Faculty always available to resolve queries and give feedback."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Tips & Tricks",
+      "desc": "Simple concepts and visualisations make tough topics stress-free."
+    }
+  ]
+}
